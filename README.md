@@ -92,4 +92,4 @@ The Bischoff replication and heuristic benchmark use customized environment impl
 
 ## Citation
 
-If you use this repository in your research, please cite the associated thesis or publication.
+If you use this repository in your research, please cite the associated paper.
