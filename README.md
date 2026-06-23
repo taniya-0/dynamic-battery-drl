@@ -25,9 +25,9 @@ This repository contains the code developed for dynamic battery management for A
 
 ---
 
-## Reinforcement Learning Models
+## Models Used
 
-### Independent PPO (IPPO)
+### Main Model: Independent PPO (IPPO)
 
 Directory: `codes/ippo/`
 
@@ -56,8 +56,6 @@ Contains:
 * `ctde_model.py` – CTDE architecture
 * `ctde_train.py` – Training script
 * `ctde_test.py` – Evaluation script
-
----
 
 ### Bischoff Strategy
 
