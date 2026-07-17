@@ -93,6 +93,7 @@ The Bischoff replication and heuristic benchmark use customized environment impl
 ## Citation
 
 If you use this repository in your research, please cite the associated paper.
+```bibtex
 @misc{shaji2026deepreinforcementlearningdynamic,
       title={Deep Reinforcement Learning for Dynamic Battery Management of Autonomous Order Pickers}, 
       author={Taniya Shaji and Abhay Sobhanan and Christof Defryn},
@@ -102,3 +103,4 @@ If you use this repository in your research, please cite the associated paper.
       primaryClass={cs.LG},
       url={https://arxiv.org/abs/2607.05683}, 
 }
+```
